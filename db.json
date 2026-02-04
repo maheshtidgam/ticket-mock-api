@@ -1,5 +1,5 @@
-{
-  "SUP-1": {
+[
+  {
     "ticketId": "SUP-1",
     "status": "Pending",
     "lastUpdatedOn": "12/09/2025 12:00AM",
@@ -32,7 +32,7 @@
       }
     ]
   },
-  "SUP-2": {
+ {
     "ticketId": "SUP-2",
     "status": "Resolved",
     "lastUpdatedOn": "20/11/2025 12:00AM",
@@ -72,7 +72,7 @@
       }
     ]
   },
-  "SUP-3": {
+{
     "ticketId": "SUP-3",
     "status": "Clarification Sought",
     "lastUpdatedOn": "12/09/2025 12:00AM",
@@ -105,7 +105,7 @@
       }
     ]
   },
-  "SUP-4": {
+ {
     "ticketId": "SUP-4",
     "status": "Clarification Sought",
     "lastUpdatedOn": "12/09/2025 12:00AM",
@@ -145,7 +145,7 @@
       }
     ]
   },
-  "SUP-5": {
+  {
     "ticketId": "SUP-5",
     "status": "Resolved",
     "lastUpdatedOn": "20/11/2025 12:00AM",
@@ -178,7 +178,7 @@
       }
     ]
   },
-  "SUP-6": {
+ {
     "ticketId": "SUP-6",
     "status": "Closed",
     "lastUpdatedOn": "12/09/2025 12:00AM",
@@ -218,7 +218,7 @@
       }
     ]
   },
-  "SUP-7": {
+ {
     "ticketId": "SUP-7",
     "status": "Pending",
     "lastUpdatedOn": "15/10/2025 09:30AM",
@@ -258,7 +258,7 @@
       }
     ]
   },
-  "SUP-8": {
+ {
     "ticketId": "SUP-8",
     "status": "Resolved",
     "lastUpdatedOn": "08/12/2025 04:00PM",
@@ -291,7 +291,7 @@
       }
     ]
   },
-  "SUP-9": {
+ {
     "ticketId": "SUP-9",
     "status": "Clarification Sought",
     "lastUpdatedOn": "22/10/2025 11:00AM",
@@ -324,7 +324,7 @@
       }
     ]
   },
-  "SUP-10": {
+ {
     "ticketId": "SUP-10",
     "status": "Closed",
     "lastUpdatedOn": "30/11/2025 05:00PM",
@@ -364,7 +364,7 @@
       }
     ]
   },
-  "SUP-11": {
+ {
     "ticketId": "SUP-11",
     "status": "Pending",
     "lastUpdatedOn": "18/01/2026 10:00AM",
@@ -397,7 +397,7 @@
       }
     ]
   },
-  "SUP-12": {
+   {
     "ticketId": "SUP-12",
     "status": "Resolved",
     "lastUpdatedOn": "05/01/2026 03:00PM",
@@ -437,7 +437,7 @@
       }
     ]
   },
-  "SUP-13": {
+   {
     "ticketId": "SUP-13",
     "status": "Clarification Sought",
     "lastUpdatedOn": "10/01/2026 09:00AM",
@@ -477,7 +477,7 @@
       }
     ]
   },
-  "SUP-14": {
+  {
     "ticketId": "SUP-14",
     "status": "Closed",
     "lastUpdatedOn": "25/12/2025 04:00PM",
@@ -517,7 +517,7 @@
       }
     ]
   },
-  "SUP-15": {
+ {
     "ticketId": "SUP-15",
     "status": "Pending",
     "lastUpdatedOn": "20/01/2026 11:30AM",
@@ -550,7 +550,7 @@
       }
     ]
   },
-  "SUP-16": {
+  {
     "ticketId": "SUP-16",
     "status": "Resolved",
     "lastUpdatedOn": "12/12/2025 05:00PM",
@@ -590,7 +590,7 @@
       }
     ]
   },
-  "SUP-17": {
+  {
     "ticketId": "SUP-17",
     "status": "Clarification Sought",
     "lastUpdatedOn": "25/01/2026 10:00AM",
@@ -623,7 +623,7 @@
       }
     ]
   },
-  "SUP-18": {
+{
     "ticketId": "SUP-18",
     "status": "Closed",
     "lastUpdatedOn": "15/11/2025 03:00PM",
@@ -663,7 +663,7 @@
       }
     ]
   },
-  "SUP-19": {
+  {
     "ticketId": "SUP-19",
     "status": "Pending",
     "lastUpdatedOn": "28/01/2026 09:00AM",
@@ -703,7 +703,7 @@
       }
     ]
   },
-  "SUP-20": {
+  {
     "ticketId": "SUP-20",
     "status": "Resolved",
     "lastUpdatedOn": "02/02/2026 04:30PM",
@@ -743,4 +743,4 @@
       }
     ]
   }
-}
+]
