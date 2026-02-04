@@ -1,0 +1,746 @@
+{
+  "SUP-1": {
+    "ticketId": "SUP-1",
+    "status": "Pending",
+    "lastUpdatedOn": "12/09/2025 12:00AM",
+    "category": "Technical",
+    "subCategory": "System Error",
+    "subject": "Unable to access dashboard",
+    "description": "Getting error 500 when trying to access the main dashboard after login.",
+    "supportingDocument": "error_screenshot.png",
+    "auditTrail": [
+      {
+        "id": 1,
+        "activity": "Under Review by Technical Team",
+        "date": "12/09/2025 12:00AM",
+        "remark": "Assigned to backend team for investigation",
+        "document": ""
+      },
+      {
+        "id": 2,
+        "activity": "Acknowledged by CERSAI",
+        "date": "11/09/2025 02:30PM",
+        "remark": "Ticket acknowledged and prioritized",
+        "document": ""
+      },
+      {
+        "id": 3,
+        "activity": "Ticket Raised by User",
+        "date": "10/09/2025 12:00AM",
+        "remark": "Initial ticket raised for dashboard access issue",
+        "document": "error_screenshot.png"
+      }
+    ]
+  },
+  "SUP-2": {
+    "ticketId": "SUP-2",
+    "status": "Resolved",
+    "lastUpdatedOn": "20/11/2025 12:00AM",
+    "category": "Operational",
+    "subCategory": "Data Update",
+    "subject": "KYC record not updating",
+    "description": "KYC record changes are not reflecting in the system after submission.",
+    "supportingDocument": "kyc_update_request.pdf",
+    "auditTrail": [
+      {
+        "id": 1,
+        "activity": "Resolved by CERSAI",
+        "date": "20/11/2025 12:00AM",
+        "remark": "Issue resolved after database sync",
+        "document": "resolution_report.pdf"
+      },
+      {
+        "id": 2,
+        "activity": "Fix Applied",
+        "date": "19/11/2025 04:00PM",
+        "remark": "Database synchronization completed",
+        "document": ""
+      },
+      {
+        "id": 3,
+        "activity": "Investigation Started",
+        "date": "16/11/2025 10:00AM",
+        "remark": "Identified sync delay in database",
+        "document": "investigation_report.pdf"
+      },
+      {
+        "id": 4,
+        "activity": "Ticket Raised by HDFC [FI 678675]",
+        "date": "15/11/2025 12:00AM",
+        "remark": "Initial ticket raised for KYC update issue",
+        "document": "kyc_update_request.pdf"
+      }
+    ]
+  },
+  "SUP-3": {
+    "ticketId": "SUP-3",
+    "status": "Clarification Sought",
+    "lastUpdatedOn": "12/09/2025 12:00AM",
+    "category": "Functional",
+    "subCategory": "Report Generation",
+    "subject": "Report not generating correctly",
+    "description": "Monthly compliance report showing incorrect data for September 2025.",
+    "supportingDocument": "report_sample.pdf",
+    "auditTrail": [
+      {
+        "id": 1,
+        "activity": "Clarification requested by CERSAI",
+        "date": "12/09/2025 12:00AM",
+        "remark": "Please provide the expected data format and sample",
+        "document": ""
+      },
+      {
+        "id": 2,
+        "activity": "Initial Analysis Completed",
+        "date": "11/09/2025 03:00PM",
+        "remark": "Report logic reviewed, need more details",
+        "document": ""
+      },
+      {
+        "id": 3,
+        "activity": "Ticket Raised by SBI [FI 123456]",
+        "date": "10/09/2025 12:00AM",
+        "remark": "Report generation issue reported",
+        "document": "report_sample.pdf"
+      }
+    ]
+  },
+  "SUP-4": {
+    "ticketId": "SUP-4",
+    "status": "Clarification Sought",
+    "lastUpdatedOn": "12/09/2025 12:00AM",
+    "category": "Miscellaneous",
+    "subCategory": "General Query",
+    "subject": "API integration documentation",
+    "description": "Need updated API documentation for new integration requirements.",
+    "supportingDocument": "integration_specs.pdf",
+    "auditTrail": [
+      {
+        "id": 1,
+        "activity": "Additional information requested",
+        "date": "12/09/2025 12:00AM",
+        "remark": "Please specify which APIs you need documentation for",
+        "document": ""
+      },
+      {
+        "id": 2,
+        "activity": "Preliminary Review Done",
+        "date": "10/09/2025 11:00AM",
+        "remark": "Request reviewed by documentation team",
+        "document": ""
+      },
+      {
+        "id": 3,
+        "activity": "Ticket Acknowledged",
+        "date": "09/09/2025 09:00AM",
+        "remark": "Ticket received and assigned",
+        "document": ""
+      },
+      {
+        "id": 4,
+        "activity": "Ticket Raised by ICICI [FI 789012]",
+        "date": "08/09/2025 12:00AM",
+        "remark": "Documentation request submitted",
+        "document": "integration_specs.pdf"
+      }
+    ]
+  },
+  "SUP-5": {
+    "ticketId": "SUP-5",
+    "status": "Resolved",
+    "lastUpdatedOn": "20/11/2025 12:00AM",
+    "category": "Miscellaneous",
+    "subCategory": "Access Request",
+    "subject": "New user access request",
+    "description": "Request for new user creation with admin privileges.",
+    "supportingDocument": "access_request_form.pdf",
+    "auditTrail": [
+      {
+        "id": 1,
+        "activity": "Access granted by Admin",
+        "date": "20/11/2025 12:00AM",
+        "remark": "User created with requested privileges",
+        "document": "access_confirmation.pdf"
+      },
+      {
+        "id": 2,
+        "activity": "Approval Received",
+        "date": "19/11/2025 02:00PM",
+        "remark": "Manager approval obtained for admin access",
+        "document": "approval_email.pdf"
+      },
+      {
+        "id": 3,
+        "activity": "Ticket Raised by Axis Bank [FI 345678]",
+        "date": "18/11/2025 12:00AM",
+        "remark": "New user access request",
+        "document": "access_request_form.pdf"
+      }
+    ]
+  },
+  "SUP-6": {
+    "ticketId": "SUP-6",
+    "status": "Closed",
+    "lastUpdatedOn": "12/09/2025 12:00AM",
+    "category": "CERSAI-CKYC Level Queries",
+    "subCategory": "Policy Clarification",
+    "subject": "KYC compliance policy clarification",
+    "description": "Need clarification on new KYC compliance requirements effective from Oct 2025.",
+    "supportingDocument": "policy_document.pdf",
+    "auditTrail": [
+      {
+        "id": 1,
+        "activity": "Ticket Closed",
+        "date": "12/09/2025 12:00AM",
+        "remark": "Query resolved, documentation provided",
+        "document": "policy_clarification.pdf"
+      },
+      {
+        "id": 2,
+        "activity": "Response provided by CERSAI",
+        "date": "10/09/2025 12:00AM",
+        "remark": "Policy document shared with detailed explanations",
+        "document": "policy_clarification.pdf"
+      },
+      {
+        "id": 3,
+        "activity": "Under Review",
+        "date": "07/09/2025 10:00AM",
+        "remark": "Policy team reviewing the query",
+        "document": ""
+      },
+      {
+        "id": 4,
+        "activity": "Ticket Raised by Kotak [FI 901234]",
+        "date": "05/09/2025 12:00AM",
+        "remark": "Policy clarification requested",
+        "document": "policy_document.pdf"
+      }
+    ]
+  },
+  "SUP-7": {
+    "ticketId": "SUP-7",
+    "status": "Pending",
+    "lastUpdatedOn": "15/10/2025 09:30AM",
+    "category": "Technical",
+    "subCategory": "Login Issue",
+    "subject": "Two-factor authentication not working",
+    "description": "OTP is not being received on registered mobile number for 2FA login.",
+    "supportingDocument": "mobile_screenshot.png",
+    "auditTrail": [
+      {
+        "id": 1,
+        "activity": "Escalated to SMS Gateway Team",
+        "date": "15/10/2025 09:30AM",
+        "remark": "Issue escalated for SMS delivery investigation",
+        "document": ""
+      },
+      {
+        "id": 2,
+        "activity": "Initial Diagnosis",
+        "date": "14/10/2025 03:00PM",
+        "remark": "Verified mobile number is correct in system",
+        "document": ""
+      },
+      {
+        "id": 3,
+        "activity": "Ticket Acknowledged",
+        "date": "13/10/2025 11:00AM",
+        "remark": "Ticket received and being reviewed",
+        "document": ""
+      },
+      {
+        "id": 4,
+        "activity": "Ticket Raised by PNB [FI 234567]",
+        "date": "13/10/2025 09:00AM",
+        "remark": "2FA OTP issue reported",
+        "document": "mobile_screenshot.png"
+      }
+    ]
+  },
+  "SUP-8": {
+    "ticketId": "SUP-8",
+    "status": "Resolved",
+    "lastUpdatedOn": "08/12/2025 04:00PM",
+    "category": "Operational",
+    "subCategory": "Transaction Error",
+    "subject": "Duplicate transaction entries",
+    "description": "System showing duplicate entries for single transaction submitted on 01/12/2025.",
+    "supportingDocument": "transaction_log.xlsx",
+    "auditTrail": [
+      {
+        "id": 1,
+        "activity": "Resolved by CERSAI",
+        "date": "08/12/2025 04:00PM",
+        "remark": "Duplicate entries removed, transaction corrected",
+        "document": "correction_report.pdf"
+      },
+      {
+        "id": 2,
+        "activity": "Database Correction Applied",
+        "date": "07/12/2025 02:00PM",
+        "remark": "Duplicate records identified and flagged for removal",
+        "document": ""
+      },
+      {
+        "id": 3,
+        "activity": "Ticket Raised by BOB [FI 456789]",
+        "date": "05/12/2025 10:00AM",
+        "remark": "Duplicate transaction issue reported",
+        "document": "transaction_log.xlsx"
+      }
+    ]
+  },
+  "SUP-9": {
+    "ticketId": "SUP-9",
+    "status": "Clarification Sought",
+    "lastUpdatedOn": "22/10/2025 11:00AM",
+    "category": "Functional",
+    "subCategory": "Data Export",
+    "subject": "Export to Excel not working",
+    "description": "Export functionality for transaction history returns empty file.",
+    "supportingDocument": "empty_export.xlsx",
+    "auditTrail": [
+      {
+        "id": 1,
+        "activity": "Clarification requested by CERSAI",
+        "date": "22/10/2025 11:00AM",
+        "remark": "Please provide date range and filters used during export",
+        "document": ""
+      },
+      {
+        "id": 2,
+        "activity": "Technical Review Started",
+        "date": "21/10/2025 03:00PM",
+        "remark": "Export module under review",
+        "document": ""
+      },
+      {
+        "id": 3,
+        "activity": "Ticket Raised by Canara Bank [FI 567890]",
+        "date": "20/10/2025 09:00AM",
+        "remark": "Export functionality issue reported",
+        "document": "empty_export.xlsx"
+      }
+    ]
+  },
+  "SUP-10": {
+    "ticketId": "SUP-10",
+    "status": "Closed",
+    "lastUpdatedOn": "30/11/2025 05:00PM",
+    "category": "CERSAI-CKYC Level Queries",
+    "subCategory": "Registration Query",
+    "subject": "Entity registration process clarification",
+    "description": "Need step-by-step guidance for registering new subsidiary entity.",
+    "supportingDocument": "entity_details.pdf",
+    "auditTrail": [
+      {
+        "id": 1,
+        "activity": "Ticket Closed",
+        "date": "30/11/2025 05:00PM",
+        "remark": "Registration completed successfully with provided guidance",
+        "document": "registration_confirmation.pdf"
+      },
+      {
+        "id": 2,
+        "activity": "Guidance Provided",
+        "date": "28/11/2025 02:00PM",
+        "remark": "Detailed registration steps shared via email",
+        "document": "registration_guide.pdf"
+      },
+      {
+        "id": 3,
+        "activity": "Ticket Acknowledged",
+        "date": "26/11/2025 10:00AM",
+        "remark": "Query assigned to registration support team",
+        "document": ""
+      },
+      {
+        "id": 4,
+        "activity": "Ticket Raised by IndusInd [FI 678901]",
+        "date": "25/11/2025 09:00AM",
+        "remark": "Registration guidance requested",
+        "document": "entity_details.pdf"
+      }
+    ]
+  },
+  "SUP-11": {
+    "ticketId": "SUP-11",
+    "status": "Pending",
+    "lastUpdatedOn": "18/01/2026 10:00AM",
+    "category": "Technical",
+    "subCategory": "Performance Issue",
+    "subject": "Slow page load times",
+    "description": "Dashboard and reports taking more than 30 seconds to load.",
+    "supportingDocument": "performance_log.txt",
+    "auditTrail": [
+      {
+        "id": 1,
+        "activity": "Performance Analysis Ongoing",
+        "date": "18/01/2026 10:00AM",
+        "remark": "Server logs being analyzed for bottlenecks",
+        "document": ""
+      },
+      {
+        "id": 2,
+        "activity": "Ticket Prioritized",
+        "date": "17/01/2026 02:00PM",
+        "remark": "Marked as high priority issue",
+        "document": ""
+      },
+      {
+        "id": 3,
+        "activity": "Ticket Raised by Yes Bank [FI 789123]",
+        "date": "16/01/2026 11:00AM",
+        "remark": "Performance degradation reported",
+        "document": "performance_log.txt"
+      }
+    ]
+  },
+  "SUP-12": {
+    "ticketId": "SUP-12",
+    "status": "Resolved",
+    "lastUpdatedOn": "05/01/2026 03:00PM",
+    "category": "Operational",
+    "subCategory": "Batch Processing",
+    "subject": "Batch upload failing",
+    "description": "Bulk data upload via CSV failing with validation errors.",
+    "supportingDocument": "upload_file.csv",
+    "auditTrail": [
+      {
+        "id": 1,
+        "activity": "Resolved by CERSAI",
+        "date": "05/01/2026 03:00PM",
+        "remark": "File format corrected and upload successful",
+        "document": "success_log.pdf"
+      },
+      {
+        "id": 2,
+        "activity": "Root Cause Identified",
+        "date": "04/01/2026 11:00AM",
+        "remark": "Date format mismatch in CSV columns",
+        "document": "error_analysis.pdf"
+      },
+      {
+        "id": 3,
+        "activity": "File Analysis Started",
+        "date": "03/01/2026 02:00PM",
+        "remark": "Uploaded file being validated",
+        "document": ""
+      },
+      {
+        "id": 4,
+        "activity": "Ticket Raised by Federal Bank [FI 890234]",
+        "date": "02/01/2026 10:00AM",
+        "remark": "Batch upload failure reported",
+        "document": "upload_file.csv"
+      }
+    ]
+  },
+  "SUP-13": {
+    "ticketId": "SUP-13",
+    "status": "Clarification Sought",
+    "lastUpdatedOn": "10/01/2026 09:00AM",
+    "category": "Functional",
+    "subCategory": "Search Functionality",
+    "subject": "Advanced search not returning results",
+    "description": "Search with multiple filters returning zero results despite matching records existing.",
+    "supportingDocument": "search_criteria.png",
+    "auditTrail": [
+      {
+        "id": 1,
+        "activity": "Clarification requested by CERSAI",
+        "date": "10/01/2026 09:00AM",
+        "remark": "Please share exact filter combinations used",
+        "document": ""
+      },
+      {
+        "id": 2,
+        "activity": "Initial Investigation",
+        "date": "09/01/2026 04:00PM",
+        "remark": "Search index status being verified",
+        "document": ""
+      },
+      {
+        "id": 3,
+        "activity": "Ticket Acknowledged",
+        "date": "08/01/2026 11:00AM",
+        "remark": "Issue logged and assigned to search team",
+        "document": ""
+      },
+      {
+        "id": 4,
+        "activity": "Ticket Raised by IDBI [FI 901345]",
+        "date": "08/01/2026 09:00AM",
+        "remark": "Search functionality issue reported",
+        "document": "search_criteria.png"
+      }
+    ]
+  },
+  "SUP-14": {
+    "ticketId": "SUP-14",
+    "status": "Closed",
+    "lastUpdatedOn": "25/12/2025 04:00PM",
+    "category": "Miscellaneous",
+    "subCategory": "Training Request",
+    "subject": "System training for new staff",
+    "description": "Request for training session on CERSAI portal for 15 new employees.",
+    "supportingDocument": "training_request.pdf",
+    "auditTrail": [
+      {
+        "id": 1,
+        "activity": "Ticket Closed",
+        "date": "25/12/2025 04:00PM",
+        "remark": "Training completed successfully",
+        "document": "training_completion.pdf"
+      },
+      {
+        "id": 2,
+        "activity": "Training Conducted",
+        "date": "22/12/2025 10:00AM",
+        "remark": "Online training session held for 15 participants",
+        "document": "attendance_sheet.pdf"
+      },
+      {
+        "id": 3,
+        "activity": "Training Scheduled",
+        "date": "18/12/2025 02:00PM",
+        "remark": "Session scheduled for 22/12/2025",
+        "document": "schedule_confirmation.pdf"
+      },
+      {
+        "id": 4,
+        "activity": "Ticket Raised by UCO Bank [FI 012456]",
+        "date": "15/12/2025 09:00AM",
+        "remark": "Training request submitted",
+        "document": "training_request.pdf"
+      }
+    ]
+  },
+  "SUP-15": {
+    "ticketId": "SUP-15",
+    "status": "Pending",
+    "lastUpdatedOn": "20/01/2026 11:30AM",
+    "category": "Technical",
+    "subCategory": "Integration Error",
+    "subject": "API timeout errors",
+    "description": "REST API calls timing out after 60 seconds during peak hours.",
+    "supportingDocument": "api_error_log.txt",
+    "auditTrail": [
+      {
+        "id": 1,
+        "activity": "Infrastructure Review",
+        "date": "20/01/2026 11:30AM",
+        "remark": "Server capacity analysis in progress",
+        "document": ""
+      },
+      {
+        "id": 2,
+        "activity": "Logs Collected",
+        "date": "19/01/2026 03:00PM",
+        "remark": "API gateway logs retrieved for analysis",
+        "document": "gateway_logs.txt"
+      },
+      {
+        "id": 3,
+        "activity": "Ticket Raised by RBL Bank [FI 123567]",
+        "date": "18/01/2026 02:00PM",
+        "remark": "API timeout issue reported",
+        "document": "api_error_log.txt"
+      }
+    ]
+  },
+  "SUP-16": {
+    "ticketId": "SUP-16",
+    "status": "Resolved",
+    "lastUpdatedOn": "12/12/2025 05:00PM",
+    "category": "Operational",
+    "subCategory": "Certificate Issue",
+    "subject": "Digital signature certificate expired",
+    "description": "Unable to sign documents as DSC has expired in the system.",
+    "supportingDocument": "dsc_details.pdf",
+    "auditTrail": [
+      {
+        "id": 1,
+        "activity": "Resolved by CERSAI",
+        "date": "12/12/2025 05:00PM",
+        "remark": "New DSC registered and activated",
+        "document": "dsc_activation.pdf"
+      },
+      {
+        "id": 2,
+        "activity": "New DSC Uploaded",
+        "date": "11/12/2025 02:00PM",
+        "remark": "User uploaded renewed certificate",
+        "document": "new_dsc.cer"
+      },
+      {
+        "id": 3,
+        "activity": "Instructions Provided",
+        "date": "10/12/2025 11:00AM",
+        "remark": "Steps to upload new DSC shared",
+        "document": "dsc_renewal_steps.pdf"
+      },
+      {
+        "id": 4,
+        "activity": "Ticket Raised by South Indian Bank [FI 234678]",
+        "date": "09/12/2025 10:00AM",
+        "remark": "DSC expiry issue reported",
+        "document": "dsc_details.pdf"
+      }
+    ]
+  },
+  "SUP-17": {
+    "ticketId": "SUP-17",
+    "status": "Clarification Sought",
+    "lastUpdatedOn": "25/01/2026 10:00AM",
+    "category": "CERSAI-CKYC Level Queries",
+    "subCategory": "Data Correction",
+    "subject": "Incorrect entity name in records",
+    "description": "Company name spelled incorrectly in CKYC records, need correction.",
+    "supportingDocument": "correct_name_proof.pdf",
+    "auditTrail": [
+      {
+        "id": 1,
+        "activity": "Clarification requested by CERSAI",
+        "date": "25/01/2026 10:00AM",
+        "remark": "Please provide board resolution for name verification",
+        "document": ""
+      },
+      {
+        "id": 2,
+        "activity": "Documents Under Review",
+        "date": "24/01/2026 02:00PM",
+        "remark": "Submitted documents being verified",
+        "document": ""
+      },
+      {
+        "id": 3,
+        "activity": "Ticket Raised by Bandhan Bank [FI 345789]",
+        "date": "23/01/2026 09:00AM",
+        "remark": "Name correction request submitted",
+        "document": "correct_name_proof.pdf"
+      }
+    ]
+  },
+  "SUP-18": {
+    "ticketId": "SUP-18",
+    "status": "Closed",
+    "lastUpdatedOn": "15/11/2025 03:00PM",
+    "category": "Functional",
+    "subCategory": "Notification Issue",
+    "subject": "Email notifications not received",
+    "description": "System email notifications not being delivered to registered email address.",
+    "supportingDocument": "email_settings.png",
+    "auditTrail": [
+      {
+        "id": 1,
+        "activity": "Ticket Closed",
+        "date": "15/11/2025 03:00PM",
+        "remark": "Email delivery confirmed after whitelist update",
+        "document": ""
+      },
+      {
+        "id": 2,
+        "activity": "Resolution Applied",
+        "date": "14/11/2025 04:00PM",
+        "remark": "Domain added to email whitelist",
+        "document": "whitelist_update.pdf"
+      },
+      {
+        "id": 3,
+        "activity": "Root Cause Found",
+        "date": "13/11/2025 11:00AM",
+        "remark": "Emails blocked by corporate firewall",
+        "document": ""
+      },
+      {
+        "id": 4,
+        "activity": "Ticket Raised by Karur Vysya [FI 456890]",
+        "date": "12/11/2025 10:00AM",
+        "remark": "Email notification issue reported",
+        "document": "email_settings.png"
+      }
+    ]
+  },
+  "SUP-19": {
+    "ticketId": "SUP-19",
+    "status": "Pending",
+    "lastUpdatedOn": "28/01/2026 09:00AM",
+    "category": "Miscellaneous",
+    "subCategory": "Feature Request",
+    "subject": "Request for bulk download option",
+    "description": "Need ability to download multiple documents at once instead of one by one.",
+    "supportingDocument": "feature_request.pdf",
+    "auditTrail": [
+      {
+        "id": 1,
+        "activity": "Feature Under Evaluation",
+        "date": "28/01/2026 09:00AM",
+        "remark": "Product team reviewing feasibility",
+        "document": ""
+      },
+      {
+        "id": 2,
+        "activity": "Request Documented",
+        "date": "27/01/2026 02:00PM",
+        "remark": "Feature request added to backlog",
+        "document": "backlog_entry.pdf"
+      },
+      {
+        "id": 3,
+        "activity": "Ticket Acknowledged",
+        "date": "26/01/2026 11:00AM",
+        "remark": "Request received and logged",
+        "document": ""
+      },
+      {
+        "id": 4,
+        "activity": "Ticket Raised by City Union [FI 567901]",
+        "date": "25/01/2026 10:00AM",
+        "remark": "Feature enhancement requested",
+        "document": "feature_request.pdf"
+      }
+    ]
+  },
+  "SUP-20": {
+    "ticketId": "SUP-20",
+    "status": "Resolved",
+    "lastUpdatedOn": "02/02/2026 04:30PM",
+    "category": "Technical",
+    "subCategory": "Browser Compatibility",
+    "subject": "Portal not working in Firefox",
+    "description": "Certain features not functioning correctly in Mozilla Firefox browser.",
+    "supportingDocument": "firefox_error.png",
+    "auditTrail": [
+      {
+        "id": 1,
+        "activity": "Resolved by CERSAI",
+        "date": "02/02/2026 04:30PM",
+        "remark": "Browser compatibility fix deployed",
+        "document": "release_notes.pdf"
+      },
+      {
+        "id": 2,
+        "activity": "Fix Developed",
+        "date": "01/02/2026 03:00PM",
+        "remark": "CSS and JS compatibility issues fixed",
+        "document": ""
+      },
+      {
+        "id": 3,
+        "activity": "Issue Reproduced",
+        "date": "31/01/2026 11:00AM",
+        "remark": "Bug confirmed in Firefox versions 115+",
+        "document": "bug_report.pdf"
+      },
+      {
+        "id": 4,
+        "activity": "Ticket Raised by Tamilnad Mercantile [FI 678012]",
+        "date": "30/01/2026 09:00AM",
+        "remark": "Browser compatibility issue reported",
+        "document": "firefox_error.png"
+      }
+    ]
+  }
+}
