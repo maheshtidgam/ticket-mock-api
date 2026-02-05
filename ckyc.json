@@ -1,0 +1,1214 @@
+[
+  {
+    "id": "ckyc-001",
+    "ckycNo": "12345432548965",
+    "name": "Hardik Patel",
+    "lastUpdatedBy": "HDFC Bank",
+    "alias": "hardikpatel27123007@ckycrr",
+    "consentPending": 2,
+    "ovdType": "aadhar",
+    "details": {
+      "demographicDetails": {
+        "nameDetails": {
+          "title": "Mr",
+          "firstName": "Hardik",
+          "middleName": "Anand",
+          "lastName": "Patel"
+        },
+        "maidenName": {
+          "title": "Mr",
+          "firstName": "Hardik",
+          "middleName": "Anand",
+          "lastName": "Patel"
+        },
+        "motherName": {
+          "title": "Mrs",
+          "firstName": "Suman",
+          "middleName": "Anand",
+          "lastName": "Patel"
+        },
+        "fatherName": {
+          "title": "Mr",
+          "firstName": "Anand",
+          "middleName": "Jaykant",
+          "lastName": "Patel"
+        },
+        "spouseName": {
+          "title": "Mrs",
+          "firstName": "Sayali",
+          "middleName": "Anand",
+          "lastName": "Patel"
+        },
+        "photoOfIndividual": "document.pdf",
+        "dateOfBirth": "20/04/1996",
+        "minor": "No",
+        "gender": "Male",
+        "panCard": "BOAPT5678U",
+        "residentialStatus": "Resident",
+        "residentialSupportingDocument": "document.pdf",
+        "nationality": "Indian",
+        "nationalitySupportingDocument": "document.pdf",
+        "differentlyAbledType": "Blindness",
+        "differentlyAbledPercent": "12%",
+        "udidNumber": "1244-5678-9101-1121"
+      },
+      "proofOfIdentity": {
+        "ovdType": "Aadhaar",
+        "idNumber": "4469",
+        "copyOfOvd": "proofofidentity.pdf"
+      },
+      "addressDetails": {
+        "permanentAddress": {
+          "line1": "Times Tower, 1st Floor",
+          "line2": "Kamala Mills Compound",
+          "line3": "Lower Parel",
+          "city": "Mumbai",
+          "state": "Maharashtra",
+          "district": "Mumbai",
+          "pinCode": "400013",
+          "digipin": "7G2X9K3LQW",
+          "country": "India"
+        },
+        "currentAddress": {
+          "line1": "Panchsheel Business Park",
+          "line2": "Balewadi High Street 2",
+          "line3": "Balewadi",
+          "city": "Pune",
+          "state": "Maharashtra",
+          "district": "Pune",
+          "pinCode": "400013",
+          "digipin": "7G2X9K3LQW",
+          "country": "India",
+          "supportingDocument": "document.pdf"
+        }
+      },
+      "contactDetails": {
+        "email": "hardik@gmail.com",
+        "countryCode": "+91 (India)",
+        "mobileNumber": "9878654543"
+      },
+      "relatedPartyDetails": [
+        {
+          "id": 1,
+          "relation": "Guardian of minor",
+          "ckycNo": "98987645678932",
+          "fullName": "Anand Patel"
+        },
+        {
+          "id": 2,
+          "relation": "Assignee",
+          "ckycNo": "98987645678932",
+          "fullName": "Naman Patel"
+        },
+        {
+          "id": 3,
+          "relation": "Guardian of minor",
+          "ckycNo": "98987645678932",
+          "fullName": "Rahul Patel"
+        }
+      ],
+      "clientReRelationship": [
+        {
+          "id": 1,
+          "fiCode": "FI-567854",
+          "reportingName": "HDFC Bank",
+          "transactionType": "Download",
+          "transactionDate": "16/04/2025"
+        },
+        {
+          "id": 2,
+          "fiCode": "FI-567854",
+          "reportingName": "HDFC Bank",
+          "transactionType": "Updated",
+          "transactionDate": "16/04/2025"
+        },
+        {
+          "id": 3,
+          "fiCode": "FI-567854",
+          "reportingName": "HDFC Bank",
+          "transactionType": "Updated",
+          "transactionDate": "16/04/2025"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ckyc-002",
+    "ckycNo": "98765432101234",
+    "name": "Anjali Sharma",
+    "lastUpdatedBy": "ICICI Bank",
+    "alias": "anjalisharma15081992@ckycrr",
+    "consentPending": 3,
+    "ovdType": "aadhar",
+    "details": {
+      "demographicDetails": {
+        "nameDetails": {
+          "title": "Mrs",
+          "firstName": "Anjali",
+          "middleName": "Kumar",
+          "lastName": "Sharma"
+        },
+        "maidenName": {
+          "title": "Ms",
+          "firstName": "Anjali",
+          "middleName": "Kumar",
+          "lastName": "Verma"
+        },
+        "motherName": {
+          "title": "Mrs",
+          "firstName": "Rekha",
+          "middleName": "Devi",
+          "lastName": "Verma"
+        },
+        "fatherName": {
+          "title": "Mr",
+          "firstName": "Rajesh",
+          "middleName": "Kumar",
+          "lastName": "Verma"
+        },
+        "spouseName": {
+          "title": "Mr",
+          "firstName": "Vikram",
+          "middleName": "Kumar",
+          "lastName": "Sharma"
+        },
+        "photoOfIndividual": "anjali_photo.pdf",
+        "dateOfBirth": "15/08/1992",
+        "minor": "No",
+        "gender": "Female",
+        "panCard": "ANJPL1234K",
+        "residentialStatus": "Resident",
+        "residentialSupportingDocument": "document.pdf",
+        "nationality": "Indian",
+        "nationalitySupportingDocument": "document.pdf",
+        "differentlyAbledType": null,
+        "differentlyAbledPercent": null,
+        "udidNumber": null
+      },
+      "proofOfIdentity": {
+        "ovdType": "Aadhaar",
+        "idNumber": "5578",
+        "copyOfOvd": "anjali_aadhar.pdf"
+      },
+      "addressDetails": {
+        "permanentAddress": {
+          "line1": "Sector 15, Plot 23",
+          "line2": "Near City Mall",
+          "line3": "Dwarka",
+          "city": "New Delhi",
+          "state": "Delhi",
+          "district": "South West Delhi",
+          "pinCode": "110078",
+          "digipin": "8H3Y7K2LMN",
+          "country": "India"
+        },
+        "currentAddress": {
+          "line1": "Sector 15, Plot 23",
+          "line2": "Near City Mall",
+          "line3": "Dwarka",
+          "city": "New Delhi",
+          "state": "Delhi",
+          "district": "South West Delhi",
+          "pinCode": "110078",
+          "digipin": "8H3Y7K2LMN",
+          "country": "India",
+          "supportingDocument": "address_proof.pdf"
+        }
+      },
+      "contactDetails": {
+        "email": "anjali.sharma@gmail.com",
+        "countryCode": "+91 (India)",
+        "mobileNumber": "9876543210"
+      },
+      "relatedPartyDetails": [
+        {
+          "id": 1,
+          "relation": "Spouse",
+          "ckycNo": "12345678901234",
+          "fullName": "Vikram Sharma"
+        }
+      ],
+      "clientReRelationship": [
+        {
+          "id": 1,
+          "fiCode": "FI-891234",
+          "reportingName": "ICICI Bank",
+          "transactionType": "Download",
+          "transactionDate": "10/03/2025"
+        },
+        {
+          "id": 2,
+          "fiCode": "FI-891234",
+          "reportingName": "ICICI Bank",
+          "transactionType": "Created",
+          "transactionDate": "05/01/2025"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ckyc-003",
+    "ckycNo": "23456789012345",
+    "name": "Rahul Mehta",
+    "lastUpdatedBy": "Axis Bank",
+    "alias": "rahulmehta12111988@ckycrr",
+    "consentPending": 1,
+    "ovdType": "pan",
+    "details": {
+      "demographicDetails": {
+        "nameDetails": {
+          "title": "Mr",
+          "firstName": "Rahul",
+          "middleName": "Suresh",
+          "lastName": "Mehta"
+        },
+        "maidenName": {
+          "title": "Mr",
+          "firstName": "Rahul",
+          "middleName": "Suresh",
+          "lastName": "Mehta"
+        },
+        "motherName": {
+          "title": "Mrs",
+          "firstName": "Meena",
+          "middleName": "Devi",
+          "lastName": "Mehta"
+        },
+        "fatherName": {
+          "title": "Mr",
+          "firstName": "Suresh",
+          "middleName": "Ramesh",
+          "lastName": "Mehta"
+        },
+        "spouseName": {
+          "title": "Mrs",
+          "firstName": "Priya",
+          "middleName": "Rahul",
+          "lastName": "Mehta"
+        },
+        "photoOfIndividual": "rahul_photo.pdf",
+        "dateOfBirth": "12/11/1988",
+        "minor": "No",
+        "gender": "Male",
+        "panCard": "RAHPL5678M",
+        "residentialStatus": "Resident",
+        "residentialSupportingDocument": "resident_doc.pdf",
+        "nationality": "Indian",
+        "nationalitySupportingDocument": "nationality_doc.pdf",
+        "differentlyAbledType": null,
+        "differentlyAbledPercent": null,
+        "udidNumber": null
+      },
+      "proofOfIdentity": {
+        "ovdType": "PAN",
+        "idNumber": "5678",
+        "copyOfOvd": "rahul_pan.pdf"
+      },
+      "addressDetails": {
+        "permanentAddress": {
+          "line1": "102, Sunrise Apartments",
+          "line2": "MG Road",
+          "line3": "Koramangala",
+          "city": "Bangalore",
+          "state": "Karnataka",
+          "district": "Bangalore Urban",
+          "pinCode": "560034",
+          "digipin": "9J4Z8L1OPQ",
+          "country": "India"
+        },
+        "currentAddress": {
+          "line1": "102, Sunrise Apartments",
+          "line2": "MG Road",
+          "line3": "Koramangala",
+          "city": "Bangalore",
+          "state": "Karnataka",
+          "district": "Bangalore Urban",
+          "pinCode": "560034",
+          "digipin": "9J4Z8L1OPQ",
+          "country": "India",
+          "supportingDocument": "address_proof.pdf"
+        }
+      },
+      "contactDetails": {
+        "email": "rahul.mehta@gmail.com",
+        "countryCode": "+91 (India)",
+        "mobileNumber": "9988776655"
+      },
+      "relatedPartyDetails": [
+        {
+          "id": 1,
+          "relation": "Spouse",
+          "ckycNo": "34567890123456",
+          "fullName": "Priya Mehta"
+        },
+        {
+          "id": 2,
+          "relation": "Father",
+          "ckycNo": "45678901234567",
+          "fullName": "Suresh Mehta"
+        }
+      ],
+      "clientReRelationship": [
+        {
+          "id": 1,
+          "fiCode": "FI-456789",
+          "reportingName": "Axis Bank",
+          "transactionType": "Download",
+          "transactionDate": "20/02/2025"
+        },
+        {
+          "id": 2,
+          "fiCode": "FI-456789",
+          "reportingName": "Axis Bank",
+          "transactionType": "Updated",
+          "transactionDate": "15/01/2025"
+        },
+        {
+          "id": 3,
+          "fiCode": "FI-456789",
+          "reportingName": "Axis Bank",
+          "transactionType": "Created",
+          "transactionDate": "01/01/2025"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ckyc-004",
+    "ckycNo": "34567890123456",
+    "name": "Pooja Gupta",
+    "lastUpdatedBy": "SBI Bank",
+    "alias": "poojagupta25061990@ckycrr",
+    "consentPending": 2,
+    "ovdType": "pan",
+    "details": {
+      "demographicDetails": {
+        "nameDetails": {
+          "title": "Mrs",
+          "firstName": "Pooja",
+          "middleName": "Amit",
+          "lastName": "Gupta"
+        },
+        "maidenName": {
+          "title": "Ms",
+          "firstName": "Pooja",
+          "middleName": "Sharma",
+          "lastName": "Verma"
+        },
+        "motherName": {
+          "title": "Mrs",
+          "firstName": "Sunita",
+          "middleName": "Devi",
+          "lastName": "Verma"
+        },
+        "fatherName": {
+          "title": "Mr",
+          "firstName": "Ramesh",
+          "middleName": "Kumar",
+          "lastName": "Verma"
+        },
+        "spouseName": {
+          "title": "Mr",
+          "firstName": "Amit",
+          "middleName": "Kumar",
+          "lastName": "Gupta"
+        },
+        "photoOfIndividual": "pooja_photo.pdf",
+        "dateOfBirth": "25/06/1990",
+        "minor": "No",
+        "gender": "Female",
+        "panCard": "POOJP9012N",
+        "residentialStatus": "Resident",
+        "residentialSupportingDocument": "resident_doc.pdf",
+        "nationality": "Indian",
+        "nationalitySupportingDocument": "nationality_doc.pdf",
+        "differentlyAbledType": "Hearing Impairment",
+        "differentlyAbledPercent": "8%",
+        "udidNumber": "5678-1234-9101-2233"
+      },
+      "proofOfIdentity": {
+        "ovdType": "PAN",
+        "idNumber": "9012",
+        "copyOfOvd": "pooja_pan.pdf"
+      },
+      "addressDetails": {
+        "permanentAddress": {
+          "line1": "45, Green Valley Society",
+          "line2": "Near Railway Station",
+          "line3": "Andheri East",
+          "city": "Mumbai",
+          "state": "Maharashtra",
+          "district": "Mumbai Suburban",
+          "pinCode": "400069",
+          "digipin": "5K6W2M3NRS",
+          "country": "India"
+        },
+        "currentAddress": {
+          "line1": "45, Green Valley Society",
+          "line2": "Near Railway Station",
+          "line3": "Andheri East",
+          "city": "Mumbai",
+          "state": "Maharashtra",
+          "district": "Mumbai Suburban",
+          "pinCode": "400069",
+          "digipin": "5K6W2M3NRS",
+          "country": "India",
+          "supportingDocument": "address_proof.pdf"
+        }
+      },
+      "contactDetails": {
+        "email": "pooja.gupta@gmail.com",
+        "countryCode": "+91 (India)",
+        "mobileNumber": "9123456789"
+      },
+      "relatedPartyDetails": [
+        {
+          "id": 1,
+          "relation": "Spouse",
+          "ckycNo": "56789012345678",
+          "fullName": "Amit Gupta"
+        },
+        {
+          "id": 2,
+          "relation": "Guardian of minor",
+          "ckycNo": "67890123456789",
+          "fullName": "Aarav Gupta"
+        }
+      ],
+      "clientReRelationship": [
+        {
+          "id": 1,
+          "fiCode": "FI-234567",
+          "reportingName": "SBI Bank",
+          "transactionType": "Download",
+          "transactionDate": "25/03/2025"
+        },
+        {
+          "id": 2,
+          "fiCode": "FI-234567",
+          "reportingName": "SBI Bank",
+          "transactionType": "Updated",
+          "transactionDate": "10/02/2025"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ckyc-005",
+    "ckycNo": "45678901234567",
+    "name": "Vikram Singh",
+    "lastUpdatedBy": "Kotak Bank",
+    "alias": "vikramsingh05031985@ckycrr",
+    "consentPending": 0,
+    "ovdType": "aadhar",
+    "details": {
+      "demographicDetails": {
+        "nameDetails": {
+          "title": "Mr",
+          "firstName": "Vikram",
+          "middleName": "Raj",
+          "lastName": "Singh"
+        },
+        "maidenName": {
+          "title": "Mr",
+          "firstName": "Vikram",
+          "middleName": "Raj",
+          "lastName": "Singh"
+        },
+        "motherName": {
+          "title": "Mrs",
+          "firstName": "Kamla",
+          "middleName": "Devi",
+          "lastName": "Singh"
+        },
+        "fatherName": {
+          "title": "Mr",
+          "firstName": "Raj",
+          "middleName": "Pratap",
+          "lastName": "Singh"
+        },
+        "spouseName": {
+          "title": "Mrs",
+          "firstName": "Neha",
+          "middleName": "Vikram",
+          "lastName": "Singh"
+        },
+        "photoOfIndividual": "vikram_photo.pdf",
+        "dateOfBirth": "05/03/1985",
+        "minor": "No",
+        "gender": "Male",
+        "panCard": "VIKPS3456Q",
+        "residentialStatus": "Resident",
+        "residentialSupportingDocument": "resident_doc.pdf",
+        "nationality": "Indian",
+        "nationalitySupportingDocument": "nationality_doc.pdf",
+        "differentlyAbledType": null,
+        "differentlyAbledPercent": null,
+        "udidNumber": null
+      },
+      "proofOfIdentity": {
+        "ovdType": "Aadhaar",
+        "idNumber": "3456",
+        "copyOfOvd": "vikram_aadhar.pdf"
+      },
+      "addressDetails": {
+        "permanentAddress": {
+          "line1": "B-12, Sector 62",
+          "line2": "Near NOIDA City Centre",
+          "line3": "Sector 62",
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "district": "Gautam Buddha Nagar",
+          "pinCode": "201301",
+          "digipin": "4L5M6N7OPQ",
+          "country": "India"
+        },
+        "currentAddress": {
+          "line1": "B-12, Sector 62",
+          "line2": "Near NOIDA City Centre",
+          "line3": "Sector 62",
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "district": "Gautam Buddha Nagar",
+          "pinCode": "201301",
+          "digipin": "4L5M6N7OPQ",
+          "country": "India",
+          "supportingDocument": "address_proof.pdf"
+        }
+      },
+      "contactDetails": {
+        "email": "vikram.singh@gmail.com",
+        "countryCode": "+91 (India)",
+        "mobileNumber": "9876501234"
+      },
+      "relatedPartyDetails": [
+        {
+          "id": 1,
+          "relation": "Spouse",
+          "ckycNo": "78901234567890",
+          "fullName": "Neha Singh"
+        }
+      ],
+      "clientReRelationship": [
+        {
+          "id": 1,
+          "fiCode": "FI-345678",
+          "reportingName": "Kotak Bank",
+          "transactionType": "Download",
+          "transactionDate": "12/04/2025"
+        },
+        {
+          "id": 2,
+          "fiCode": "FI-345678",
+          "reportingName": "Kotak Bank",
+          "transactionType": "Created",
+          "transactionDate": "01/03/2025"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ckyc-006",
+    "ckycNo": "56789012345678",
+    "name": "Neha Kapoor",
+    "lastUpdatedBy": "PNB Bank",
+    "alias": "nehakapoor18091993@ckycrr",
+    "consentPending": 4,
+    "ovdType": "passport",
+    "details": {
+      "demographicDetails": {
+        "nameDetails": {
+          "title": "Ms",
+          "firstName": "Neha",
+          "middleName": "Raj",
+          "lastName": "Kapoor"
+        },
+        "maidenName": {
+          "title": "Ms",
+          "firstName": "Neha",
+          "middleName": "Raj",
+          "lastName": "Kapoor"
+        },
+        "motherName": {
+          "title": "Mrs",
+          "firstName": "Anita",
+          "middleName": "Devi",
+          "lastName": "Kapoor"
+        },
+        "fatherName": {
+          "title": "Mr",
+          "firstName": "Rakesh",
+          "middleName": "Kumar",
+          "lastName": "Kapoor"
+        },
+        "spouseName": null,
+        "photoOfIndividual": "neha_photo.pdf",
+        "dateOfBirth": "18/09/1993",
+        "minor": "No",
+        "gender": "Female",
+        "panCard": "NEHKP7890R",
+        "residentialStatus": "NRI",
+        "residentialSupportingDocument": "nri_doc.pdf",
+        "nationality": "Indian",
+        "nationalitySupportingDocument": "nationality_doc.pdf",
+        "differentlyAbledType": null,
+        "differentlyAbledPercent": null,
+        "udidNumber": null
+      },
+      "proofOfIdentity": {
+        "ovdType": "Passport",
+        "idNumber": "7890",
+        "copyOfOvd": "neha_passport.pdf"
+      },
+      "addressDetails": {
+        "permanentAddress": {
+          "line1": "221, Model Town",
+          "line2": "Near Civil Lines",
+          "line3": "Model Town",
+          "city": "Ludhiana",
+          "state": "Punjab",
+          "district": "Ludhiana",
+          "pinCode": "141002",
+          "digipin": "2A3B4C5DEF",
+          "country": "India"
+        },
+        "currentAddress": {
+          "line1": "45 Marina Bay",
+          "line2": "Downtown Core",
+          "line3": "Central Region",
+          "city": "Singapore",
+          "state": "Singapore",
+          "district": "Central",
+          "pinCode": "018956",
+          "digipin": "SG1234567",
+          "country": "Singapore",
+          "supportingDocument": "address_proof.pdf"
+        }
+      },
+      "contactDetails": {
+        "email": "neha.kapoor@gmail.com",
+        "countryCode": "+65 (Singapore)",
+        "mobileNumber": "91234567"
+      },
+      "relatedPartyDetails": [
+        {
+          "id": 1,
+          "relation": "Father",
+          "ckycNo": "89012345678901",
+          "fullName": "Rakesh Kapoor"
+        },
+        {
+          "id": 2,
+          "relation": "Mother",
+          "ckycNo": "90123456789012",
+          "fullName": "Anita Kapoor"
+        }
+      ],
+      "clientReRelationship": [
+        {
+          "id": 1,
+          "fiCode": "FI-456789",
+          "reportingName": "PNB Bank",
+          "transactionType": "Download",
+          "transactionDate": "05/04/2025"
+        },
+        {
+          "id": 2,
+          "fiCode": "FI-456789",
+          "reportingName": "PNB Bank",
+          "transactionType": "Updated",
+          "transactionDate": "20/03/2025"
+        },
+        {
+          "id": 3,
+          "fiCode": "FI-456789",
+          "reportingName": "PNB Bank",
+          "transactionType": "Created",
+          "transactionDate": "15/02/2025"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ckyc-007",
+    "ckycNo": "67890123456789",
+    "name": "Amit Joshi",
+    "lastUpdatedBy": "BOB Bank",
+    "alias": "amitjoshi22121987@ckycrr",
+    "consentPending": 1,
+    "ovdType": "aadhar",
+    "details": {
+      "demographicDetails": {
+        "nameDetails": {
+          "title": "Mr",
+          "firstName": "Amit",
+          "middleName": "Kumar",
+          "lastName": "Joshi"
+        },
+        "maidenName": {
+          "title": "Mr",
+          "firstName": "Amit",
+          "middleName": "Kumar",
+          "lastName": "Joshi"
+        },
+        "motherName": {
+          "title": "Mrs",
+          "firstName": "Savita",
+          "middleName": "Devi",
+          "lastName": "Joshi"
+        },
+        "fatherName": {
+          "title": "Mr",
+          "firstName": "Dinesh",
+          "middleName": "Prasad",
+          "lastName": "Joshi"
+        },
+        "spouseName": {
+          "title": "Mrs",
+          "firstName": "Kavita",
+          "middleName": "Amit",
+          "lastName": "Joshi"
+        },
+        "photoOfIndividual": "amit_photo.pdf",
+        "dateOfBirth": "22/12/1987",
+        "minor": "No",
+        "gender": "Male",
+        "panCard": "AMTJS1234S",
+        "residentialStatus": "Resident",
+        "residentialSupportingDocument": "resident_doc.pdf",
+        "nationality": "Indian",
+        "nationalitySupportingDocument": "nationality_doc.pdf",
+        "differentlyAbledType": "Locomotor Disability",
+        "differentlyAbledPercent": "15%",
+        "udidNumber": "9876-5432-1098-7654"
+      },
+      "proofOfIdentity": {
+        "ovdType": "Aadhaar",
+        "idNumber": "1234",
+        "copyOfOvd": "amit_aadhar.pdf"
+      },
+      "addressDetails": {
+        "permanentAddress": {
+          "line1": "78, Shastri Nagar",
+          "line2": "Near Bus Stand",
+          "line3": "Shastri Nagar",
+          "city": "Jaipur",
+          "state": "Rajasthan",
+          "district": "Jaipur",
+          "pinCode": "302016",
+          "digipin": "6G7H8I9JKL",
+          "country": "India"
+        },
+        "currentAddress": {
+          "line1": "78, Shastri Nagar",
+          "line2": "Near Bus Stand",
+          "line3": "Shastri Nagar",
+          "city": "Jaipur",
+          "state": "Rajasthan",
+          "district": "Jaipur",
+          "pinCode": "302016",
+          "digipin": "6G7H8I9JKL",
+          "country": "India",
+          "supportingDocument": "address_proof.pdf"
+        }
+      },
+      "contactDetails": {
+        "email": "amit.joshi@gmail.com",
+        "countryCode": "+91 (India)",
+        "mobileNumber": "9012345678"
+      },
+      "relatedPartyDetails": [
+        {
+          "id": 1,
+          "relation": "Spouse",
+          "ckycNo": "01234567890123",
+          "fullName": "Kavita Joshi"
+        },
+        {
+          "id": 2,
+          "relation": "Guardian of minor",
+          "ckycNo": "12345678901234",
+          "fullName": "Rohan Joshi"
+        }
+      ],
+      "clientReRelationship": [
+        {
+          "id": 1,
+          "fiCode": "FI-567890",
+          "reportingName": "BOB Bank",
+          "transactionType": "Download",
+          "transactionDate": "18/04/2025"
+        },
+        {
+          "id": 2,
+          "fiCode": "FI-567890",
+          "reportingName": "BOB Bank",
+          "transactionType": "Updated",
+          "transactionDate": "10/04/2025"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ckyc-008",
+    "ckycNo": "78901234567890",
+    "name": "Priya Reddy",
+    "lastUpdatedBy": "Canara Bank",
+    "alias": "priyareddy10071991@ckycrr",
+    "consentPending": 2,
+    "ovdType": "pan",
+    "details": {
+      "demographicDetails": {
+        "nameDetails": {
+          "title": "Mrs",
+          "firstName": "Priya",
+          "middleName": "Lakshmi",
+          "lastName": "Reddy"
+        },
+        "maidenName": {
+          "title": "Ms",
+          "firstName": "Priya",
+          "middleName": "Lakshmi",
+          "lastName": "Rao"
+        },
+        "motherName": {
+          "title": "Mrs",
+          "firstName": "Padma",
+          "middleName": "Devi",
+          "lastName": "Rao"
+        },
+        "fatherName": {
+          "title": "Mr",
+          "firstName": "Venkat",
+          "middleName": "Ramana",
+          "lastName": "Rao"
+        },
+        "spouseName": {
+          "title": "Mr",
+          "firstName": "Kiran",
+          "middleName": "Kumar",
+          "lastName": "Reddy"
+        },
+        "photoOfIndividual": "priya_photo.pdf",
+        "dateOfBirth": "10/07/1991",
+        "minor": "No",
+        "gender": "Female",
+        "panCard": "PRYRD5678T",
+        "residentialStatus": "Resident",
+        "residentialSupportingDocument": "resident_doc.pdf",
+        "nationality": "Indian",
+        "nationalitySupportingDocument": "nationality_doc.pdf",
+        "differentlyAbledType": null,
+        "differentlyAbledPercent": null,
+        "udidNumber": null
+      },
+      "proofOfIdentity": {
+        "ovdType": "PAN",
+        "idNumber": "5678",
+        "copyOfOvd": "priya_pan.pdf"
+      },
+      "addressDetails": {
+        "permanentAddress": {
+          "line1": "Plot 45, Jubilee Hills",
+          "line2": "Road No. 10",
+          "line3": "Jubilee Hills",
+          "city": "Hyderabad",
+          "state": "Telangana",
+          "district": "Hyderabad",
+          "pinCode": "500033",
+          "digipin": "8M9N0O1PQR",
+          "country": "India"
+        },
+        "currentAddress": {
+          "line1": "Plot 45, Jubilee Hills",
+          "line2": "Road No. 10",
+          "line3": "Jubilee Hills",
+          "city": "Hyderabad",
+          "state": "Telangana",
+          "district": "Hyderabad",
+          "pinCode": "500033",
+          "digipin": "8M9N0O1PQR",
+          "country": "India",
+          "supportingDocument": "address_proof.pdf"
+        }
+      },
+      "contactDetails": {
+        "email": "priya.reddy@gmail.com",
+        "countryCode": "+91 (India)",
+        "mobileNumber": "9876012345"
+      },
+      "relatedPartyDetails": [
+        {
+          "id": 1,
+          "relation": "Spouse",
+          "ckycNo": "23456789012345",
+          "fullName": "Kiran Reddy"
+        }
+      ],
+      "clientReRelationship": [
+        {
+          "id": 1,
+          "fiCode": "FI-678901",
+          "reportingName": "Canara Bank",
+          "transactionType": "Download",
+          "transactionDate": "22/04/2025"
+        },
+        {
+          "id": 2,
+          "fiCode": "FI-678901",
+          "reportingName": "Canara Bank",
+          "transactionType": "Updated",
+          "transactionDate": "15/04/2025"
+        },
+        {
+          "id": 3,
+          "fiCode": "FI-678901",
+          "reportingName": "Canara Bank",
+          "transactionType": "Created",
+          "transactionDate": "01/04/2025"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ckyc-009",
+    "ckycNo": "89012345678901",
+    "name": "Sanjay Kumar",
+    "lastUpdatedBy": "Union Bank",
+    "alias": "sanjaykumar30041982@ckycrr",
+    "consentPending": 0,
+    "ovdType": "aadhar",
+    "details": {
+      "demographicDetails": {
+        "nameDetails": {
+          "title": "Mr",
+          "firstName": "Sanjay",
+          "middleName": "Mohan",
+          "lastName": "Kumar"
+        },
+        "maidenName": {
+          "title": "Mr",
+          "firstName": "Sanjay",
+          "middleName": "Mohan",
+          "lastName": "Kumar"
+        },
+        "motherName": {
+          "title": "Mrs",
+          "firstName": "Sarla",
+          "middleName": "Devi",
+          "lastName": "Kumar"
+        },
+        "fatherName": {
+          "title": "Mr",
+          "firstName": "Mohan",
+          "middleName": "Lal",
+          "lastName": "Kumar"
+        },
+        "spouseName": {
+          "title": "Mrs",
+          "firstName": "Ritu",
+          "middleName": "Sanjay",
+          "lastName": "Kumar"
+        },
+        "photoOfIndividual": "sanjay_photo.pdf",
+        "dateOfBirth": "30/04/1982",
+        "minor": "No",
+        "gender": "Male",
+        "panCard": "SNJKM9012U",
+        "residentialStatus": "Resident",
+        "residentialSupportingDocument": "resident_doc.pdf",
+        "nationality": "Indian",
+        "nationalitySupportingDocument": "nationality_doc.pdf",
+        "differentlyAbledType": null,
+        "differentlyAbledPercent": null,
+        "udidNumber": null
+      },
+      "proofOfIdentity": {
+        "ovdType": "Aadhaar",
+        "idNumber": "9012",
+        "copyOfOvd": "sanjay_aadhar.pdf"
+      },
+      "addressDetails": {
+        "permanentAddress": {
+          "line1": "12, Civil Lines",
+          "line2": "Near District Court",
+          "line3": "Civil Lines",
+          "city": "Lucknow",
+          "state": "Uttar Pradesh",
+          "district": "Lucknow",
+          "pinCode": "226001",
+          "digipin": "0P1Q2R3STU",
+          "country": "India"
+        },
+        "currentAddress": {
+          "line1": "12, Civil Lines",
+          "line2": "Near District Court",
+          "line3": "Civil Lines",
+          "city": "Lucknow",
+          "state": "Uttar Pradesh",
+          "district": "Lucknow",
+          "pinCode": "226001",
+          "digipin": "0P1Q2R3STU",
+          "country": "India",
+          "supportingDocument": "address_proof.pdf"
+        }
+      },
+      "contactDetails": {
+        "email": "sanjay.kumar@gmail.com",
+        "countryCode": "+91 (India)",
+        "mobileNumber": "9567890123"
+      },
+      "relatedPartyDetails": [
+        {
+          "id": 1,
+          "relation": "Spouse",
+          "ckycNo": "34567890123456",
+          "fullName": "Ritu Kumar"
+        },
+        {
+          "id": 2,
+          "relation": "Father",
+          "ckycNo": "45678901234567",
+          "fullName": "Mohan Kumar"
+        },
+        {
+          "id": 3,
+          "relation": "Mother",
+          "ckycNo": "56789012345678",
+          "fullName": "Sarla Kumar"
+        }
+      ],
+      "clientReRelationship": [
+        {
+          "id": 1,
+          "fiCode": "FI-789012",
+          "reportingName": "Union Bank",
+          "transactionType": "Download",
+          "transactionDate": "28/04/2025"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ckyc-010",
+    "ckycNo": "90123456789012",
+    "name": "Deepika Nair",
+    "lastUpdatedBy": "Federal Bank",
+    "alias": "deepikanair14021994@ckycrr",
+    "consentPending": 3,
+    "ovdType": "voter",
+    "details": {
+      "demographicDetails": {
+        "nameDetails": {
+          "title": "Ms",
+          "firstName": "Deepika",
+          "middleName": "Lakshmi",
+          "lastName": "Nair"
+        },
+        "maidenName": {
+          "title": "Ms",
+          "firstName": "Deepika",
+          "middleName": "Lakshmi",
+          "lastName": "Nair"
+        },
+        "motherName": {
+          "title": "Mrs",
+          "firstName": "Geetha",
+          "middleName": "Devi",
+          "lastName": "Nair"
+        },
+        "fatherName": {
+          "title": "Mr",
+          "firstName": "Krishnan",
+          "middleName": "Pillai",
+          "lastName": "Nair"
+        },
+        "spouseName": null,
+        "photoOfIndividual": "deepika_photo.pdf",
+        "dateOfBirth": "14/02/1994",
+        "minor": "No",
+        "gender": "Female",
+        "panCard": "DPKNR3456V",
+        "residentialStatus": "Resident",
+        "residentialSupportingDocument": "resident_doc.pdf",
+        "nationality": "Indian",
+        "nationalitySupportingDocument": "nationality_doc.pdf",
+        "differentlyAbledType": "Visual Impairment",
+        "differentlyAbledPercent": "20%",
+        "udidNumber": "3456-7890-1234-5678"
+      },
+      "proofOfIdentity": {
+        "ovdType": "Voter ID",
+        "idNumber": "3456",
+        "copyOfOvd": "deepika_voter.pdf"
+      },
+      "addressDetails": {
+        "permanentAddress": {
+          "line1": "TC 15/234, Kowdiar",
+          "line2": "Near Kowdiar Palace",
+          "line3": "Kowdiar",
+          "city": "Thiruvananthapuram",
+          "state": "Kerala",
+          "district": "Thiruvananthapuram",
+          "pinCode": "695003",
+          "digipin": "2S3T4U5VWX",
+          "country": "India"
+        },
+        "currentAddress": {
+          "line1": "Flat 302, Marina Apartments",
+          "line2": "Kakkanad",
+          "line3": "Info Park Road",
+          "city": "Kochi",
+          "state": "Kerala",
+          "district": "Ernakulam",
+          "pinCode": "682030",
+          "digipin": "4W5X6Y7ZAB",
+          "country": "India",
+          "supportingDocument": "address_proof.pdf"
+        }
+      },
+      "contactDetails": {
+        "email": "deepika.nair@gmail.com",
+        "countryCode": "+91 (India)",
+        "mobileNumber": "9234567890"
+      },
+      "relatedPartyDetails": [
+        {
+          "id": 1,
+          "relation": "Father",
+          "ckycNo": "67890123456789",
+          "fullName": "Krishnan Nair"
+        },
+        {
+          "id": 2,
+          "relation": "Mother",
+          "ckycNo": "78901234567890",
+          "fullName": "Geetha Nair"
+        }
+      ],
+      "clientReRelationship": [
+        {
+          "id": 1,
+          "fiCode": "FI-890123",
+          "reportingName": "Federal Bank",
+          "transactionType": "Download",
+          "transactionDate": "30/04/2025"
+        },
+        {
+          "id": 2,
+          "fiCode": "FI-890123",
+          "reportingName": "Federal Bank",
+          "transactionType": "Updated",
+          "transactionDate": "25/04/2025"
+        },
+        {
+          "id": 3,
+          "fiCode": "FI-890123",
+          "reportingName": "Federal Bank",
+          "transactionType": "Created",
+          "transactionDate": "20/04/2025"
+        }
+      ]
+    }
+  }
+]

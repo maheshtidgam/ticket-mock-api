@@ -1,6 +1,7 @@
 const express = require("express");
 const cors = require("cors");
 const ticketData = require("./db.json");
+const ckycData = require("./ckyc.json");
 
 const app = express();
 
@@ -60,6 +61,51 @@ app.get("/api/tickets/:ticketId/audit-trail", (req, res) => {
     success: true,
     ticketId,
     data: ticket.auditTrail,
+  });
+});
+
+/* ---------------- GET ALL CKYC RECORDS ---------------- */
+app.get("/api/ckyc", (req, res) => {
+  res.json({
+    success: true,
+    count: ckycData.length,
+    data: { ckycRecords: ckycData },
+  });
+});
+
+/* ---------------- GET CKYC BY ID ---------------- */
+app.get("/api/ckyc/:id", (req, res) => {
+  const { id } = req.params;
+  const record = ckycData.find((r) => r.id === id);
+
+  if (!record) {
+    return res.status(404).json({
+      success: false,
+      message: `CKYC record with ID ${id} not found`,
+    });
+  }
+
+  res.json({
+    success: true,
+    data: record,
+  });
+});
+
+/* ---------------- GET CKYC BY CKYC NUMBER ---------------- */
+app.get("/api/ckyc/ckycno/:ckycNo", (req, res) => {
+  const { ckycNo } = req.params;
+  const record = ckycData.find((r) => r.ckycNo === ckycNo);
+
+  if (!record) {
+    return res.status(404).json({
+      success: false,
+      message: `CKYC record with CKYC No ${ckycNo} not found`,
+    });
+  }
+
+  res.json({
+    success: true,
+    data: record,
   });
 });
 
